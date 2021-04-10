@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+Amandine GAUBERVILLE & Justine PHOL-ASA 
 
-*[Your Cohort, Campus & Date]*
+*[Data analytics PT, Paris & 04/10/2021]*
 
 ## Content
 - [Project Description](#project-description)
