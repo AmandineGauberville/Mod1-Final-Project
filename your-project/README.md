@@ -26,6 +26,12 @@ What are the questions you would like to build your dataset to answer?
 <a name="dataset"></a>
 
 ## Dataset
+
+2 Sources :
+https://api.gouv.fr/documentation/api-la-bonne-alternance
+
+https://www.data.gouv.fr/fr/datasets/indicateurs-de-suivi-de-lepidemie-de-covid-19-en-france/
+
 What are your data sources? How did you access these sources? How did you transform or merge them into one cohesive and novel dataset? Provide links to the data if available.
 
 [Dataset]() 
@@ -47,4 +53,4 @@ Include the links to your repository, slides and trello. Feel free to include an
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/pmL3ZYvv/module-1-lien-covid-19-nombre-doffres-en-alternance)  
