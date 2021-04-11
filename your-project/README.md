@@ -16,11 +16,22 @@ Amandine GAUBERVILLE & Justine PHOL-ASA
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant).
+In this project, we are trying to prove that the current health crisis has a negative impact on the job market for young people, and in particular, in their initial training.
+
+Our analysis includes all France and various jobs families :
+
+Communication
+Building public works
+Hairstyle
+Culture (Event / Show, cinema and audiovisual production and administration)
+Commercial air navigation
+Logistics
+Data
+Breeding
 
 <a name="hypotheses-/-questions"></a>
 
-## Hypotheses / Questions
+## Question
 What is the link between the impact of COVID-19 in french departments and the Apprenticeships Market ?
 
 <a name="dataset"></a>
