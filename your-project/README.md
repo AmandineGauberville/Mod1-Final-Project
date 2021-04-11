@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# Project Apprenticeships Market & COVID-19 : 
 Amandine GAUBERVILLE & Justine PHOL-ASA 
 
 *[Data analytics PT, Paris & 04/10/2021]*
@@ -21,7 +21,7 @@ Write a short description of your project: 3-5 sentences about what your project
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-What is the link between the impact of COVID-19 in french department and the Apprenticeships Market ?
+What is the link between the impact of COVID-19 in french departments and the Apprenticeships Market ?
 
 <a name="dataset"></a>
 
@@ -32,8 +32,6 @@ First Dataset is the "La Bonne Alternance's API" :
 
 Second Dataset is the french epidemic monitoring of COVID-19, from csv file :
 [Second Dataset](https://www.data.gouv.fr/fr/datasets/indicateurs-de-suivi-de-lepidemie-de-covid-19-en-france/) 
-
-What are your data sources? How did you access these sources? How did you transform or merge them into one cohesive and novel dataset? Provide links to the data if available.
 
 <a name="workflow"></a>
 
