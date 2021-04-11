@@ -20,14 +20,14 @@ In this project, we are trying to prove that the current health crisis has a neg
 
 Our analysis includes all France and various jobs families :
 
-Communication
-Building public works
-Hairstyle
-Culture (Event / Show, cinema and audiovisual production and administration)
-Commercial air navigation
-Logistics
-Data
-Breeding
+Communication ; 
+Building public works ; 
+Hairstyle ; 
+Culture (Event / Show, cinema and audiovisual production and administration) ; 
+Commercial air navigation ; 
+Logistics ; 
+Data ; 
+Breeding.
 
 <a name="hypotheses-/-questions"></a>
 
@@ -47,12 +47,39 @@ Second Dataset is the french epidemic monitoring of COVID-19, from csv file :
 <a name="workflow"></a>
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
+The steps we follow were :
+
+2) Chercher une question et des datasets liés
+2b) Validation auprès de JM
+3) Dessiner un schéma de base de données SQL
+3b) Planifier les étapes pour arriver au but final avec le Trello : 
+
+
+Step 1 :
+Look for an interesting topic and open data available on it
+Lead Teacher's validation
+
+Step 2 :
+Planification of our project and organization by creation of a collaborative Trello
+Start thinking about the structure of our final dataset by creation of an ER diagram 
+
+Step 3 :
+Coding to obtain 2 smart Datasets
+
+Step 4 :
+Creation of one database from the 2 previous smart datasets
+Analysing data with SQL language to anwer at the question
+Be ready for the database validation with the Lead Teacher / TAs.
+
+Step 5 :
+Working on our presentation and present it to our cohort
 
 <a name="organization"></a>
 
 ## Organization
-How did you organize yourself? Did you use any tools?
+We were thinking together on the final structure 
+We assigned ourselves the tasks to be more efficiently.
+When we met some difficulties about coding, we helped eachother and thinking of solutions.
 
 <a name="links"></a>
 
