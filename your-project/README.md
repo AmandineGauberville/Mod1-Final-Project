@@ -49,12 +49,6 @@ Second Dataset is the french epidemic monitoring of COVID-19, from csv file :
 ## Workflow
 The steps we follow were :
 
-2) Chercher une question et des datasets liés
-2b) Validation auprès de JM
-3) Dessiner un schéma de base de données SQL
-3b) Planifier les étapes pour arriver au but final avec le Trello : 
-
-
 Step 1 :
 Look for an interesting topic and open data available on it
 Lead Teacher's validation
